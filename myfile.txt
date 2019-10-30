@@ -1,4 +1,0 @@
-This is my first line in the file. V1
-thisis my 2nd line.
-Adding jan release
-added jan defect rel
